@@ -1,0 +1,120 @@
+/* 
+color1: #EE6983
+color2: #FFC4C4
+color3: #850E35
+color4: #FFF5E4
+*/
+
+#home {
+    background-color: #EE6983;
+    color: #FFF5E4;
+    padding: 2% 15%;
+}
+
+.logo-name,
+.cafe {
+    color: #FFF5E4;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.btn2 {
+    -webkit-border-radius: 22;
+    -moz-border-radius: 22;
+    border-radius: 15px;
+    font-family: Georgia;
+    color: #EE6983;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 6px 40px 6px 40px;
+    border: solid #ffffff 2px;
+    text-decoration: none;
+}
+
+.btn2:hover {
+    background: #FFC4C4;
+    text-decoration: none;
+}
+
+.heading {
+    font-size: 3.5rem;
+}
+
+.cake1 {
+    position: relative;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
+.cake2 {
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    height: 650px;
+}
+
+.raspberries {
+    margin-top: 10%;
+    height: 50%;
+}
+
+#products {
+    text-align: center;
+    padding: 0 15% 7%;
+}
+
+.product-title,
+.item-heading, .card-title {
+    color: #FFC4C4;
+    padding: 5%;
+}
+
+.product-item-info {
+    font-size: 0.85rem;
+}
+
+.item-product {
+    padding: 2% 3% 5%;
+}
+
+.product-images {
+    height: 300px;
+    width: 300px;
+    border: #FFC4C4 solid 5px;
+    border-radius: 100%;
+}
+
+.btn-product {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #FFC4C4;
+    padding: 5px 30px 5px 30px;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-product:hover {
+    background: #850E35;
+    text-decoration: none;
+}
+#special {
+    padding: 5% 15%;
+    background-color: #FFC4C4;
+}
+.card {
+    width: 20rem;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+}
+#contact{
+    background-color: #850E35;
+    color: #FFF5E4;
+    padding: 5% 15%;
+}
+
